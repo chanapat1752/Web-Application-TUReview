@@ -31,11 +31,8 @@ const Contact = () => {
                         <div class="card border-primary mb-3" style={{ backgroundColor: "rgba(255, 255, 255, 0.7)", maxWidth: "50rem" }} >
                             <div class="card-header text-dark" > <b> Contact Information </b></div>
                             <div class="card-body text-dark" >
-                                <p class="card-text" > นายฐิติกร กมลพรรณพร 5909610031 </p>
                                 <p class="card-text" > นายพีรวีส บดีพงศ์ 5909610247</p>
                                 <p class="card-text" > นายชนภัทร รักพงศ์นาถ 5909610734</p>
-                                <p class="card-text" > นายกานต์กวิน ประไฟศิลป์ 5909680026</p>
-                                <p class="card-text" > นายณัฐพงษ์ สวัสดิ์รักษา 5909680125</p>
                             </div>
                         </div>
 
